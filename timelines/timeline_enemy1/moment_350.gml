@@ -1,0 +1,1 @@
+instance_create_layer(random(room_width), -100, "Instances", obj_enemy1);
